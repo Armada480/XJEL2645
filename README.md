@@ -1,4 +1,4 @@
-Joystick LCD coordinates
+Mbed Project
   ============
  A program for Unit 4 assessment
   
